@@ -3,7 +3,7 @@
 Make ASCII arts with this node.js command line utility
 
 ## Getting Started
-Install the module with: `sudo npm -g install nodeart`
+Install the module with: `sudo npm -g install node-art`
 
 
 Run the command as follows:
